@@ -1,0 +1,12 @@
+.blacky,
+.yello {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+.blacky {
+    background-color: hsl(0, 0%, 0%);
+    color:white;
+}
+.yello {
+    background-color: hsl(60, 100%, 50%);
+}
